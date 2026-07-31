@@ -71,17 +71,17 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
 ### 🌐 Web Development
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🗄️ Database
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
