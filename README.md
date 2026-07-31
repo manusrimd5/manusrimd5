@@ -86,12 +86,12 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 </p>
 
 ### 🔧 Tools
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 🤖 AI / Data Science
-<p align="center">
+<p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn,matplotlib,tensorflow,pytorch,opencv,powerbi" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2f7f2c9d-8d76-4f39-a87d-1f0dbcf52c6b.gif">
