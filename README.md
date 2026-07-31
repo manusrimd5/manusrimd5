@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+🚀" />
 </p>
-## 
-
+##  👨‍💻 About me 
 Hi there! 👋 I'm **Manusri M D**, a Final Year **Computer Science and Engineering** student at **Kangeyam Institute of Technology** with a **CGPA of 8.36**.
 
 I enjoy transforming ideas into practical software solutions and continuously expanding my knowledge through projects, hackathons, and real-world problem solving. My primary focus is **Software Engineering**, **Artificial Intelligence**, and **Data Science**, where I enjoy building applications that create meaningful impact.
