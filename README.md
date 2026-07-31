@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+🚀" />
 </p>
-## 👨‍💻 About Me
+## 
 
 Hi there! 👋 I'm **Manusri M D**, a Final Year **Computer Science and Engineering** student at **Kangeyam Institute of Technology** with a **CGPA of 8.36**.
 
@@ -28,3 +28,12 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 🎯 **Career Goal:** Software Engineer • AI/ML Engineer • Data Scientist • Cloud Engineer
 
 ✨ **Personal Motto:** *Learn • Build • Repeat*
+## ⚡ Quick Facts
+
+- 🎓 B.E. Computer Science and Engineering (Final Year)
+- 🏫 Kangeyam Institute of Technology
+- 📍 Kumbakonam, Tamil Nadu, India
+- 📈 CGPA: **8.36**
+- 💻 Primary Language: **Python**
+- 🌱 Currently Learning: Machine Learning, Cloud Computing & Full Stack Development
+- 🎯 Open to Software Engineering, AI/ML, and Data Science opportunities
