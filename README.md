@@ -9,7 +9,7 @@
 </p>
 
 
-##                                                              👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hi there! 👋 I'm **Manusri M D**, a Final Year **Computer Science and Engineering** student at **Kangeyam Institute of Technology** with a **CGPA of 8.36**.
 
@@ -30,7 +30,7 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 🎯 **Career Goal:** Software Engineer • AI/ML Engineer • Data Scientist • Cloud Engineer
 
 ✨ **Personal Motto:** *Learn • Build • Repeat*
-##                                                           ⚡ Quick Facts
+## ⚡ Quick Facts
 
 - 🎓 B.E. Computer Science and Engineering (Final Year)
 - 🏫 Kangeyam Institute of Technology
@@ -40,7 +40,7 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 - 🌱 Currently Learning: Machine Learning, Cloud Computing & Full Stack Development
 - 🎯 Open to Software Engineering, AI/ML, and Data Science opportunities
 
-##                                                   🏆 Leadership & Achievements
+## 🏆 Leadership & Achievements
 
 - 🎤 IEEE Computer Society Chairperson
 - 👑 President, Problem Solvers Club
@@ -50,7 +50,7 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/manusri-murugan-951b49343">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -68,7 +68,7 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 </a>
 </p>
 
-##                                                                🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="left">
