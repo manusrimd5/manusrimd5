@@ -48,9 +48,9 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 - 🎙️ Public Speaker & Event Organizer
 - 🤖 Built AI and Machine Learning projects
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/manusri-murugan-951b49343">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
