@@ -70,10 +70,27 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
+### 🌐 Web Development
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,powerbi" />
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🗄️ Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 🤖 AI / Data Science
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn,matplotlib,tensorflow,pytorch,opencv,powerbi" />
 </p>
