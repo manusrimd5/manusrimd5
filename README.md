@@ -39,3 +39,11 @@ I enjoy transforming ideas into practical software solutions and continuously ex
 - 💻 Primary Language: **Python**
 - 🌱 Currently Learning: Machine Learning, Cloud Computing & Full Stack Development
 - 🎯 Open to Software Engineering, AI/ML, and Data Science opportunities
+
+## 🏆 Leadership & Achievements
+
+- 🎤 IEEE Computer Society Chairperson
+- 👑 President, Problem Solvers Club
+- 🏅 Active Hackathon Participant
+- 🎙️ Public Speaker & Event Organizer
+- 🤖 Built AI and Machine Learning projects
